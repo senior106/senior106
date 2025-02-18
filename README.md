@@ -2,7 +2,7 @@
 
 <h1 align="center">Senior Trading & Web Developer</h1>
 <hr/>
-###
+
 
 <br clear="both" />
 
