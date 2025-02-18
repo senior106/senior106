@@ -11,10 +11,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=senior106&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
-  <img
+<!--   <img
     src="https://streak-stats.demolab.com/?user=senior106&theme=neon&hide_border=true&card_width=420"
     height="175"
-    alt="languages graph" />
+    alt="languages graph" /> -->
 </div>
 <br clear="both" />
 <!-- <h1 align="center">Lurny Company</h1>
